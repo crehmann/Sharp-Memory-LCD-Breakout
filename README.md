@@ -17,4 +17,5 @@
 
 See the BOM csv file in the [release zip-file](https://github.com/crehmann/Sharp-Memory-LCD-Breakout/releases) for LCSC part numbers 
 
-**Note:** The current revision v0.3 is not personally tested. v0.2 was using wrong capacitor values but the schematic worked otherwise.
+**Note:** The current revision v0.3 is not personally tested. v0.2 was using wrong capacitor values but the schematic worked otherwise ([see picture](https://raw.githubusercontent.com/crehmann/Sharp-Memory-LCD-Breakout/main/Pictures/displayOnBreakoutBoard.png)).
+
