@@ -15,6 +15,6 @@
 | J3                  | 1    | SMD     | FH12-10S-0.5SH                               | FPC connector with 10 pins and 0.5mm pitch                   |
 | LS011B7DH03 Display | 1    | -       |                                              | https://aliexpress.com/item/1005001809102193.html            |
 
-See the BOM csv file in the release zip-file for LCSC part numbers 
+See the BOM csv file in the [release zip-file](https://github.com/crehmann/Sharp-Memory-LCD-Breakout/releases) for LCSC part numbers 
 
 **Note:** The current revision v0.3 is not personally tested. v0.2 was using wrong capacitor values but the schematic worked otherwise.
