@@ -17,6 +17,6 @@
 
 See the BOM csv file in the [release zip-file](https://github.com/crehmann/Sharp-Memory-LCD-Breakout/releases) for LCSC part numbers 
 
-**Note:** The current revision v0.3 is not personally tested. v0.2 was using wrong capacitor values but the schematic worked otherwise ([see picture](https://raw.githubusercontent.com/crehmann/Sharp-Memory-LCD-Breakout/main/Pictures/displayOnBreakoutBoard.png)).
+**Note:** The current revision v0.3 is **not** tested. v0.2 was using wrong capacitor values but the schematic worked otherwise ([see picture](https://raw.githubusercontent.com/crehmann/Sharp-Memory-LCD-Breakout/main/Pictures/displayOnBreakoutBoard.png)).
 
 **Assembly**: Soldering by hand is doable. The pads for the components are larger for easier soldering. However, for the FPC connecter good equipment and routine is required as it has a pitch of only 0.5mm
